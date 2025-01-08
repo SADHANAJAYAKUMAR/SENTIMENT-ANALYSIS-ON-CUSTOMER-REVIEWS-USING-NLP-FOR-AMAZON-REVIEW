@@ -1,1 +1,1 @@
-# SENTIMENT-ANALYSIS-ON-CUSTOMER-REVIEWS-USING-NLP-FOR-AMAZON-REVIEW
+This project applies Natural Language Processing (NLP) to analyze customer reviews from the Amazon Reviews Dataset for Musical Instruments. The goal is to predict sentiment (positive, negative, or neutral) from text data, helping businesses improve product development, customer service, and marketing strategies.
